@@ -1,5 +1,5 @@
 <!-- <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm SuperJUNO" title="👋 Hi there! I'm SuperJUNO"/> -->
-<p>👋 Hi there! I'm SuperJUNO</p>
+<p>👋 Hi there! I'm Matsushima Goro</p>
 <p align="justify"> 
 welcome to my GitHub Page. I am a full-stack engineer with six years of professional experience working on enterprise and startup projects. I'm passionate about learning, expanding his knowledge, building high quality software, and automation.
 </p>
@@ -135,7 +135,7 @@ welcome to my GitHub Page. I am a full-stack engineer with six years of professi
 <div style="display: flex; justify-content: space-between;">
   <div>
     <div style="display: flex; align-items: center;">
-      <a href="superjuno1018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">superjuno1018@gmail.com</b>
+      <a href="poker.king90102@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">superjuno1018@gmail.com</b>
     </div>
     <div style="display: flex; align-items: center;">
       <a href="/"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">live:.cid.fa42a6cfc24eb224</b>
