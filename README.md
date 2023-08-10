@@ -135,7 +135,7 @@ welcome to my GitHub Page. I am a full-stack engineer with six years of professi
 <div style="display: flex; justify-content: space-between;">
   <div>
     <div style="display: flex; align-items: center;">
-      <a href="poker.king90102@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">poker.king90102@gmail.com</b>
+      <a href="poker.king90102@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">jackson98102@gmail.com</b>
     </div>
   </div>
 <div>
