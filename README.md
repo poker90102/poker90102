@@ -1,5 +1,5 @@
 <!-- <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm SuperJUNO" title="👋 Hi there! I'm SuperJUNO"/> -->
-<p>👋 Hi there! I'm Matsushima Goro</p>
+<p>👋 Hi there!</p>
 <p align="justify"> 
 welcome to my GitHub Page. I am a full-stack engineer with six years of professional experience working on enterprise and startup projects. I'm passionate about learning, expanding his knowledge, building high quality software, and automation.
 </p>
